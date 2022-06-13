@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+#canvasInputContainer {
+    display: none;
+}
+
+#canvasOutput {
+    background: black;
+    border: 3px solid lime;
+}
